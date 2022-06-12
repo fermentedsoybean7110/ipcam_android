@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">IPCam</string>
+    <string name="ip_address_label">IP Address</string>
+    <string name="portNumber_label">Port Number</string>
+    <string name="user_name_label">User</string>
+    <string name="password_label">Password</string>
+    <string name="connect_button_label">接続</string>
 </resources>
